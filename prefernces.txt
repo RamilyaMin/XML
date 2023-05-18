@@ -1,7 +1,0 @@
-
-xml
-<favorite movie>three billboard
-<favorite series>paper hou
-<favorite food>wings
-<favorite season>summer
-<side you would like to visit>France
